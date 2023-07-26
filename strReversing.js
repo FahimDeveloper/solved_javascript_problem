@@ -6,4 +6,4 @@ const strReversing = (str) => {
     return reverseStr
 }
 const reversingStr = "javascript";
-console.log(strReversing(reversingStr))
+console.log(`Out put is ${strReversing(reversingStr)}`)
